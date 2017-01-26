@@ -1,0 +1,48 @@
+@import url("/css/bootstrap/css/bootstrap.min.css");
+@import url("/css/font-awesome-4.7.0/css/font-awesome.min.css");
+
+.navbar-default {
+  background-color: transparent;
+  border: none;
+  background-image: url("/img/banner.png");
+  background-position: left top;
+  background-size: 100% auto;
+  background-attachment: fixed;
+  border-radius: 0;
+}
+
+.navbar-title {
+  width: 100%;
+  text-align: center;
+  padding: 75px 0 75px 0;
+}
+
+.navbar-title > a {
+  color: white;
+  text-shadow: 2px 2px 8px #000;
+}
+
+@media (max-width: 768px) {
+  .navbar-title {
+    padding: 0;
+  }
+  .navbar-toggle {
+    margin-right: 30px;
+  }
+  .navbar-collapse {
+    background: #d2d2ff; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left,  #d2d2ff, #d2ffd2); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #d2d2ff, #d2ffd2); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #d2d2ff, #d2ffd2); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right,  #d2d2ff, #d2ffd2); /* Standard syntax */
+  }
+}
+.navbar-default .navbar-nav>li>a {
+    font-weight: 700;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color: rgb(0, 165, 0);
+    background-color: transparent;
+    font-weight: 700;
+}
