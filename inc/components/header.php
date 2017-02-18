@@ -1,7 +1,7 @@
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-default" id="top-navbar">
   <div class="container-fluid">
     <div class="navbar-title">
-      <a><h1>Jose Rodriguez-Rivas Senior Portfolio</h1></a>
+      <a href="/"><h1>Jose Rodriguez-Rivas Senior Portfolio</h1></a>
     </div>
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -16,17 +16,17 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#"><i class="fa fa-home fa-fw"></i>&nbsp;Home <span class="sr-only">(current)</span></a></li>
+        <li><a href="/"><i class="fa fa-home fa-fw"></i>&nbsp;Home <span class="sr-only">(current)</span></a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-gamepad fa-fw"></i>&nbsp;Project <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
+            <li><a href="/project/code-snippets"><i class="fa fa-code fa-fw"></i>&nbsp; Code Snippets</a></li>
           </ul>
         </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-graduation-cap fa-fw"></i>&nbsp;Research <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
+            <li><a href="/research/">Research Paper</a></li>
           </ul>
         </li>
         <li class="dropdown">

@@ -46,3 +46,7 @@
     background-color: transparent;
     font-weight: 700;
 }
+
+#main-container {
+  margin-bottom: 20px;
+}
