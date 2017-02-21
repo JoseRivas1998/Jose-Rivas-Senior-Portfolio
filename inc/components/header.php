@@ -20,7 +20,8 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-gamepad fa-fw"></i>&nbsp;Project <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="/project/code-snippets"><i class="fa fa-code fa-fw"></i>&nbsp; Code Snippets</a></li>
+            <li><a href="/project/code-snippets"><i class="fa fa-code fa-fw"></i>&nbsp;Code Snippets</a></li>
+            <li><a href="/project/steamexpo"><i class="fa fa-steam fa-fw"></i>&nbsp;S.T.E.A.M. EXPO</a></li>
           </ul>
         </li>
         <li class="dropdown">
