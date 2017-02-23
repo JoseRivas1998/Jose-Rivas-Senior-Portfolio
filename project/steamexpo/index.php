@@ -86,6 +86,9 @@
               <div class="col-xs-6">
                 <img src="/img/steam_booth_2.jpg" alt="Jos&eacute; Next to Booth" class="img-responsive gal-img">
               </div>
+              <div class="col-xs-6">
+                <img src="/img/steam_booth_3.jpg" alt="Jos&eacute; with Alexis Next to Booth" class="img-responsive gal-img">
+              </div>
             </div>
           </div>
         </div>
