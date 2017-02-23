@@ -27,7 +27,7 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-graduation-cap fa-fw"></i>&nbsp;Research <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="/research/">Research Paper</a></li>
+            <li><a href="/research/"><i class="fa fa-file-text fa-fw"></i>&nbsp;Research Paper</a></li>
           </ul>
         </li>
         <li class="dropdown">
