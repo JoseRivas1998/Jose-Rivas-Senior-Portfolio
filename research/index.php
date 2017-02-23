@@ -20,7 +20,7 @@
             </object>
             <h2>Graded Paper</h2>
             <object data="Senior_Project_Research_Paper_graded.pdf" id="papergrad" type="application/pdf" width="100%">
-              <strong>Error:</strong> Your browser does not support pdf files. Please download <a href="Senior_Project_Research_Paper_graded.pdf">Senior_Project_Research_Paper.pdf</a> to read the paper.
+              <strong>Error:</strong> Your browser does not support pdf files. Please download <a href="Senior_Project_Research_Paper_graded.pdf">Senior_Project_Research_Paper_graded.pdf</a> to read the paper.
             </object>
           </div>
         </div>
